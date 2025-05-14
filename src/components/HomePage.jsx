@@ -79,8 +79,8 @@ export default function HomePage({ setCurrentPage }) {
               <div className="relative">
                 <div className="absolute -inset-4 bg-pink-200 rounded-full opacity-30 blur-3xl"></div>
                 <img
-                  src="https://images.unsplash.com/photo-1609220136736-443140cffec6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                  alt="Mother and baby"
+                  src="https://images.unsplash.com/photo-1555252333-9f8e92e65df9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                  alt="Mother lovingly holding her baby"
                   className="relative w-full h-auto rounded-3xl shadow-2xl"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl p-4 shadow-xl">
